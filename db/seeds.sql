@@ -10,7 +10,7 @@ VALUES ("The Shawshank Redemption"),
   ("Inception"),
   ("Fight Club");
 
-INSERT INTO plots (review)
+INSERT INTO plots (plot)
 VALUES ("Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."),
 ("The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."),
 ("In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."),
